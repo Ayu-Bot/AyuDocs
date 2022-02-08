@@ -14,8 +14,8 @@ Ninguém sabe... Apenas ela
 
 ## Personagem
 
-Personagem tem 2 artes, uma criada por \[Re naro]d() e outra por desconhecido.
+Personagem tem 2 artes, uma criada por [Renaro](https://twitter.com/MSogek?t=_334t0CevWE33MdkaehqrA&s=09) e outra por desconhecido.
 
 ![Criada por desconhecido](.gitbook/assets/381e231b632c742d9033e3138ec0eb49-removebg-preview.png)
 
-![Criada por prorpor](.gitbook/assets/unknown-25.png)
+![Criada por renaro](.gitbook/assets/unknown-25.png)
