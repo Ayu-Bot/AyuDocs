@@ -1,4 +1,4 @@
-# 2 | Diretrizes de uso
+# 2 | Termos de uso
 
 ➥ 2.1 | Todos os usuários que pretenderem usar a Ayu devem respeitar os Termos de Serviço do Discord, como também as Diretrizes da Comunidade do Discord.
 
