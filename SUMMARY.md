@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sobre AYU](README.md)
+* [😄 Sobre AYU](README.md)
 
 ## Group 1
 
