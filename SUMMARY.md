@@ -2,6 +2,6 @@
 
 * [😄 Sobre AYU](README.md)
 
-## Group 1
+## Diretrizes
 
-* [Regras de uso](group-1/regras-de-uso.md)
+* [Introdução](diretrizes/introducao.md)
