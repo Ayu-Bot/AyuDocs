@@ -6,8 +6,7 @@
 • You must read our Terms of Service frequently, we can modify our terms anytime without user's concent. Last update: April 8, 2022.
 
 # Privacy Policy
-• Use of this application ("Ayu") will collect server name and id; member name, avatar and id
-
+• The use of this application ("Ayu") in a server don't require neither users or servers data. • We will never ask any kind of information about our users or servers that our bot is in.
 
 # Bot Usage
 • Ayu is a public bot and you don't have to pay to use it.
