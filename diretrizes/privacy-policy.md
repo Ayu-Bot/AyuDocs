@@ -28,7 +28,8 @@
 • If you want to delete your account, read below:
 ### How can I delete?
 1. You can contact [support on Discord](https://discord.gg/bUcgWgpARh)
-2. You can delete through the [bot's dashboard](https://ayubot.tech/settings/account/delete)
+2. You can delete through the [bot's dashboard](https://ayubot.tech/settings/account) 
+  • (Zona Perigosa > Deletar Conta)
 
 # Questions
 • If you have any questions feel free to join our [Discord Server](https://discord.gg/bUcgWgpARh).
