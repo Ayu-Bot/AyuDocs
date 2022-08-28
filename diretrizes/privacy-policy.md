@@ -22,14 +22,6 @@
 
 • This is in compliance with the Discord Terms of Service.
 
-<!--# Account Deletion
-• If you want to delete your account:
-### How can I delete?
-1. You can contact [support on Discord](https://discord.gg/bUcgWgpARh)
-2. You can delete through the [Dashboard](https://ayubot.tech/settings/account) 
-  • (Dangerous zone > Delete Account)
---->
-
 # Questions
 • If you have any questions feel free to join our [Discord Server](https://discord.gg/bUcgWgpARh).
 
