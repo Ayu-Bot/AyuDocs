@@ -8,4 +8,4 @@
 
 ## Tutoriais
 ### 👋 Boas-vindas
-* [Introdução](welcome/intro.md)
+* [Introdução](tutorials/welcome/intro.md)
