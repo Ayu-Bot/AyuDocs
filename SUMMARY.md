@@ -7,5 +7,5 @@
 * [📃 Política de Privacidade](diretrizes/privacy-policy.md)
 
 ## Tutoriais
-### 👋 Boas-vindas
-* [Introdução](tutorials/welcome/intro.md)
+- 👋 Boas-vindas
+  - [Introdução](tutorials/welcome/intro.md)
