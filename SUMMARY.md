@@ -1,7 +1,7 @@
 # Table of contents
 
 ## Começo
-- [📖 Diretrizes](diretrizes/introducao.md)
+- [📖 Diretrizes](diretrizes/README.md)
   - [📃 Termos de uso](diretrizes/termos-de-uso.md)
   - [📃 Política de Privacidade](diretrizes/privacy-policy.md)
 
